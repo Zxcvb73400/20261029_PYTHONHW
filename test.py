@@ -19,4 +19,4 @@ try:
 except ImportError:
     print("Numpy 套件: 未找到 (可能使用非 Conda 或基礎環境)")
 
-print("--- 環境檢測結束 ---")
+print("--- 這是環境檢測結束了 ---")
